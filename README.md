@@ -1,17 +1,8 @@
 ## Eggium
 
-## About this bot
+### Overview
 
-This bot was originally conceived by (community member and moderator) [FantasyCookie17](https://artemislena.eu).
-
-## A simple question-response Matrix bot, built on matrix-nio API
-
-Built out of necessity, this easy to use and manage Matrix bot will give recorded responses from its JSON file.
-
-**Example:**
-
-    Random User: !faq pbpOS
-    Pine64 FAQ Bot: [FAQbot] Which OS you should run depends on what you prefer. Well supported options are Debian (default on all PBPs), Ubuntu, and Manjaro.
+Text [link](https://github.com).
 
 ### Requirements:
 - Requirement 1
@@ -22,6 +13,10 @@ After downloading.
 ### Usage:
 Test
 
+    Text
+    More text
+    Extra text
+    
 ### License:
 
 	Copyright (c) 2022 Eggy115
