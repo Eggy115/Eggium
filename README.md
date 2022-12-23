@@ -1,23 +1,23 @@
-## Eggium
+# Eggium
 
-### Overview
+## Overview
 
 Text [link](https://github.com).
 
-### Requirements:
+## Requirements
 - Requirement 1
 
-### Setup:
+## Setup
 After downloading.
 
-### Usage:
+## Usage
 Test
 
     Text
     More text
     Extra text
     
-### License:
+## License
 
 	Copyright (c) 2022 Eggy115
 
