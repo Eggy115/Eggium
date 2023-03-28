@@ -1,5 +1,12 @@
 # Eggium
 
+## Table of Contents
+
+- [Eggium](#Eggium)
+- [EggyHax](#EggyHax)
+- [EggyPrompt](#EggyPrompt)
+- [EggyOS](#EggyOS)
+
 ## Overview
 
 Text and more text and more text stuff etc. Text [link](https://github.com). More and more and more.  
